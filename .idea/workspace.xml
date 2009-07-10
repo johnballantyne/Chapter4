@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/say/hello.html.erb" afterPath="$PROJECT_DIR$/app/views/say/hello.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/say_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/say_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Chapter4.iws" />
@@ -42,7 +43,7 @@
       <file leaf-file-name="say_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/say_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
+            <state line="3" column="5" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -51,7 +52,7 @@
       <file leaf-file-name="hello.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/say/hello.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="53" selection-start="499" selection-end="499" vertical-scroll-proportion="0.6223507">
+            <state line="22" column="26" selection-start="572" selection-end="572" vertical-scroll-proportion="0.7206166">
               <folding />
             </state>
           </provider>
@@ -152,6 +153,24 @@
         </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="app" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Chapter4" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Chapter4" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="app" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="controllers" />
           <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -476,14 +495,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/say_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
+        <state line="3" column="5" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/say/hello.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="53" selection-start="499" selection-end="499" vertical-scroll-proportion="0.6223507">
+        <state line="22" column="26" selection-start="572" selection-end="572" vertical-scroll-proportion="0.7206166">
           <folding />
         </state>
       </provider>
