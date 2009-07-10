@@ -7,8 +7,13 @@
       <li>Time in one hour: <%= 1.hour.from_now %></li>
     </ul>
     <hr>
-    <% 3.times do %>
+    <% 3.times do -%>
     Ho!<br>
-    <% end %>
-     Merry Christmas!
+    <% end -%>
+    Merry Christmas!
+    <hr>
+    <% 3.downto(1) do |count| -%>
+    <%= count %>...<br>
+    <% end -%>
+    Lift off!
 </html>
