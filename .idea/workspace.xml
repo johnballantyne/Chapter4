@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/say/hello.html.erb" afterPath="$PROJECT_DIR$/app/views/say/hello.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/say/goodbye.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/say_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/say_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -43,16 +44,25 @@
       <file leaf-file-name="say_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/say_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="5" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+            <state line="5" column="14" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="goodbye.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/say/goodbye.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="38" selection-start="92" selection-end="92" vertical-scroll-proportion="0.13152805">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/say/hello.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="26" selection-start="572" selection-end="572" vertical-scroll-proportion="0.7206166">
+            <state line="24" column="8" selection-start="597" selection-end="639" vertical-scroll-proportion="-17.0">
               <folding />
             </state>
           </provider>
@@ -404,14 +414,14 @@
     <supportedVersion>125</supportedVersion>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-2" width="1288" height="977" extended-state="0" />
+    <frame x="-4" y="0" width="1288" height="975" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3302217" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960254" sideWeight="0.6635623" order="1" side_tool="false" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960254" sideWeight="0.66239816" order="0" side_tool="false" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960254" sideWeight="0.66161025" order="0" side_tool="false" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Web Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" />
@@ -436,7 +446,7 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page 44" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page 46" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
@@ -453,6 +463,7 @@
     <MESSAGE value="Page 42" />
     <MESSAGE value="Page 43" />
     <MESSAGE value="Page 44" />
+    <MESSAGE value="Page 46" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -495,14 +506,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/say_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="5" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+        <state line="5" column="14" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/say/hello.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="26" selection-start="572" selection-end="572" vertical-scroll-proportion="0.7206166">
+        <state line="24" column="8" selection-start="597" selection-end="639" vertical-scroll-proportion="-17.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/say/goodbye.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="38" selection-start="92" selection-end="92" vertical-scroll-proportion="0.13152805">
           <folding />
         </state>
       </provider>
