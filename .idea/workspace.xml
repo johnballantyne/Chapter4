@@ -51,7 +51,7 @@
       <file leaf-file-name="hello.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/say/hello.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="55" selection-start="251" selection-end="251" vertical-scroll-proportion="0.19653179">
+            <state line="10" column="11" selection-start="303" selection-end="303" vertical-scroll-proportion="0.32755297">
               <folding />
             </state>
           </provider>
@@ -417,7 +417,7 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page 41" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page 42" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
@@ -431,6 +431,7 @@
     <MESSAGE value="Updated README" />
     <MESSAGE value="Added SayController &amp; hello" />
     <MESSAGE value="Page 41" />
+    <MESSAGE value="Page 42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -480,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/say/hello.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="55" selection-start="251" selection-end="251" vertical-scroll-proportion="0.19653179">
+        <state line="10" column="11" selection-start="303" selection-end="303" vertical-scroll-proportion="0.32755297">
           <folding />
         </state>
       </provider>
